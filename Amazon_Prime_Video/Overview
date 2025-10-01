@@ -1,0 +1,15 @@
+This project analyzes Amazon Prime Video content using pivot tables and charts in Excel.
+
+Key Insights
+
+By Country → Top content-producing countries
+
+By Director → Most prolific directors
+
+By Type → Movies vs. TV Shows
+
+By Genre → Distribution of genres
+
+By Actor → Top 20 most featured actors
+
+Interactive pivot tables and charts are included for each question, along with a structured Excel file for clear visualization and reporting.
